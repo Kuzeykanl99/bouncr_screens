@@ -1,4 +1,4 @@
-A portion of the Bouncr App's source code with UI/UX images
+A portion of the Bouncr App's source code from differnt screen in the app with additional UI/UX images
 
 ![file](https://github.com/user-attachments/assets/c6787ae6-b460-4797-8070-b188e1b0cf40)
 ![file (1)](https://github.com/user-attachments/assets/947d855b-e84c-402d-9b03-62fafe7508c5)
