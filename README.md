@@ -1,3 +1,5 @@
+Bouncr is live on iOS and Android in its beta version.
+
 A portion of the Bouncr App's source code from differnt screen in the app with additional UI/UX images
 
 ![file](https://github.com/user-attachments/assets/342eac19-b679-4f98-a201-163d58966d92)
